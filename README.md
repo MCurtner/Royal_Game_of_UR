@@ -2,8 +2,7 @@
 
 ### Getting Started 
 
-To get started, simply clone the repository and open in Unreal Engine.
-
+To get started, simply clone the repository and open in Unreal Engine.  Create a new branch for any new commits which will be reviewed and merged.
 
 
 
